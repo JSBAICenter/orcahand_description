@@ -52,6 +52,9 @@ pip install -r utils_requirements.txt
 
 We can also recommend the VSCode extension `mtsmfm.vscode-stl-viewer` for quickly visualizing STL meshes.
 
+# Servos
+[servos](https://www.orcahand.com/models/full)
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
