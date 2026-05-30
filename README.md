@@ -55,6 +55,10 @@ We can also recommend the VSCode extension `mtsmfm.vscode-stl-viewer` for quickl
 # Servos
 [servos](https://www.orcahand.com/models/full)
 
+# Open source alternatives
+
+[wuji](https://github.com/wuji-technology)
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
